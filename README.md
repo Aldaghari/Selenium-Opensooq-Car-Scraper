@@ -5,6 +5,9 @@ A web scraper that goes on Opensooq and retrieve cars information for you automa
 
 NOTE!, Still not completed :)
 
+# Demo
+![Alt Text](Demo.gif)
+
 # Requirements
 1. Python
 2. Selenium
