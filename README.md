@@ -1,7 +1,7 @@
 
 # Opensooq Car Scraper
 
-A web scraper that goes on Opensooq and retrive cars information for you automaticlly.
+A web scraper that goes on Opensooq and retrieve cars information for you automatically.
 
 NOTE!, Still not completed :)
 
